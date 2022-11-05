@@ -1,0 +1,1 @@
+// React component that shows an article items in the main page

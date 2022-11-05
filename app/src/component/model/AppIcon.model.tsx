@@ -1,0 +1,1 @@
+// enum that contains the list of commonly used icons

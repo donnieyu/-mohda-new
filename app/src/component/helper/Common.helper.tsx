@@ -1,0 +1,1 @@
+// class type component that contains the commonly used functions

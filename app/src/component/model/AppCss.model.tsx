@@ -1,0 +1,1 @@
+// enum that contains the commonly used css
