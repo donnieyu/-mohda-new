@@ -11,8 +11,16 @@ export const Main: React.FC = () => {
     });
 
     return <>
-        <Header/>
-        <Body/>
-        <Footer/>
+        <div className="">
+            <div style={{backgroundColor: "red"}}>
+                Header
+            </div>
+            <div style={{backgroundColor: "yellow"}}>
+                Body
+            </div>
+            <div style={{backgroundColor: "blue"}}>
+                Footer
+            </div>
+        </div>
     </>;
 };
